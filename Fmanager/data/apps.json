@@ -1,0 +1,24 @@
+{
+  "applications": [
+    {
+      "id": 1,
+      "name": "zapret by fgang",
+      "description": "zapret by fgang",
+      "github_link": "https://github.com/ChupikRey/Zapret-by-fgang1/blob/main/zapret1.zip",
+      "category": "zapret",
+      "version": "1.0.0",
+      "developer": "Developer",
+      "installed": false
+    },
+    {
+      "id": 2,
+      "name": "Windows application",
+      "description": "Windows application\nsteam,chrome,7-zip,spotify",
+      "github_link": "https://github.com/ChupikRey/new-windows-",
+      "category": "windows",
+      "version": "1.0.0",
+      "developer": "Developer",
+      "installed": true
+    }
+  ]
+}
